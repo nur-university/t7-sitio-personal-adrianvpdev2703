@@ -20,4 +20,9 @@
 .parrafoCentrado {
     text-align: center;
 }
+.listaCentrada {
+    list-style-position: inside;
+    text-align: center;
+    padding-left: 0;
+  }
   
