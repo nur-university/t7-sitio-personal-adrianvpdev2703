@@ -1,0 +1,23 @@
+
+.imagenCentrada{
+    width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.imagenCentradaBig{
+    width: 350px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.tituloCentrado {
+    text-align: center;
+}
+
+.parrafoCentrado {
+    text-align: center;
+}
+  
